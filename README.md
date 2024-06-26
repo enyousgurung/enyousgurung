@@ -3,9 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Enyous Gurung - Video Editor & Graphics Designer</title>
 </head>
 <body>
+
+<h3 align="center">Currently a passionate video editor/graphics designer studying BSc Hons Computing</h3>
+  
   <div align="center">
     <img src="logo new final-2.png" alt="Your Logo" width="100px" height="100px">
     <h1>
