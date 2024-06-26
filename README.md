@@ -1,19 +1,19 @@
-
+\<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body style="background-color: #660902;">
-  <div align="center">
-    <img src="logo new final-2.png" alt="Your Logo" width="100px" height="100px">
+<body>
+  <div style="background-color: #660902; padding: 20px;" align="center"> 
+    <img src="logo_new_final-2.png" alt="Your Logo" width="100px" height="100px">
     <h1>
       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There👋!+;+I'm+Enyous+Gurung!;">
     </h1>
 
   <h3>Currently a passionate video editor/graphics designer studying BSc Hons Computing</h3>
 
-  <ul style="list-style-type:none;">
+   <ul style="list-style-type:none;">
       <li>🔭 I’m currently working as a video editor</li>
       <li>🌱 I’m currently studying BSc Hons Computing</li>
     </ul>
