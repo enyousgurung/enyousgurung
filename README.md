@@ -41,7 +41,7 @@
       </a>
     </div>
 
-    <hr>
+  <hr>
 
   <h3>
       <a href="https://git.io/typing-svg">
