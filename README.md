@@ -3,12 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    a img {
+      transition: transform 0.2s ease-in-out;
+    }
+    a img:hover {
+      transform: scale(1.1);
+    }
+  </style>
 </head>
 <body>
   <div align="center">
     <img src="logo new final-2.png" alt="Your Logo" width="100px" height="100px">
     <h1>
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There👋!+;+I'm+Enyous+Gurung!+;+From+Nepal!;">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There👋!+;+I'm+Enyous+Gurung!+;+From+Nepal;">
     </h1>
 
   <h3>Currently a passionate video editor/graphics designer studying BSc Hons Computing</h3>
@@ -20,19 +28,13 @@
 
   <div>
       <a href="mailto:enyousgrg@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" 
-             onmouseover="this.style.transform='scale(1.1)'; this.style.transition='transform 0.2s ease-in-out';" 
-             onmouseout="this.style.transform='scale(1)';"/>
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
       </a>
       <a href="https://www.linkedin.com/in/enyous-gurung-88a23527b/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
-             onmouseover="this.style.transform='scale(1.1)'; this.style.transition='transform 0.2s ease-in-out';" 
-             onmouseout="this.style.transform='scale(1)';"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
       <a href="https://enyous.netlify.app">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"
-             onmouseover="this.style.transform='scale(1.1)'; this.style.transition='transform 0.2s ease-in-out';" 
-             onmouseout="this.style.transform='scale(1)';"/>
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
       </a>
     </div>
 
