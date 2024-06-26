@@ -1,9 +1,10 @@
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body>  
+<body>
   <div align="center">
     <img src="logo new final-2.png" alt="Your Logo" width="100px" height="100px">
     <h1>
@@ -30,18 +31,18 @@
     </div>
 
   <hr/>
-  
-  <h2 align="center">* Languages-Frameworks-Tools X</h2›
-   ‹br/>
-    ‹div align="center"›
-     ‹a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=github, python, javascript, java" / >‹br>
-     <img src="https://skillicons.dev/icons?i=html, css, vscode, git" />
-     ‹/a>
+
+  <h2 align="center">Languages-Frameworks-Tools</h2>
+    <br/>
+    <div align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=Davinci Resolve,photoshop,github,python,javascript,java,html,css,vscode,git" alt="Skills" />
+      </a>
     </div>
 
   <hr>
 
-  <h3>
+  h3>
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Shoot+me+a+message+on+LinkedIn;I'm+always+down+to+collab+🙂" alt="Typing Animation">
       </a>
