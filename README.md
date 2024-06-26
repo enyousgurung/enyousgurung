@@ -6,7 +6,7 @@
 </head>
 <body style="background-color: #f0f0f0;">
   <div align="center">
-    <img src="logo_new_final-2.png" alt="Your Logo" width="100px" height="100px">
+    <img src="logo new final-2.png" alt="Your Logo" width="100px" height="100px">
     <h1>
       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There👋!+;+I'm+Enyous+Gurung!;">
     </h1>
