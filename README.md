@@ -29,6 +29,16 @@
       </a>
     </div>
 
+  <hr/>
+  
+  <h2 align="center">* Languages-Frameworks-Tools X</h2›
+   ‹br/>
+    ‹div align="center"›
+     ‹a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=github, python, javascript, java" / >‹br>
+     <img src="https://skillicons.dev/icons?i=html, css, vscode, git" />
+     ‹/a>
+    </div>
+
   <hr>
 
   <h3>
