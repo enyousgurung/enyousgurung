@@ -36,7 +36,7 @@
     <br/>
     <div align="center">
       <a href="https://skillicons.dev">
-        <img src="DaVinci-Resolve-Logo.tif" alt="Your Logo" width="60px" height="60px">
+        <img src="DaVinci-Resolve-Logo.tif" alt="Your Logo" width="50px" height="50px">
         <img src="https://skillicons.dev/icons?i=photoshop,blender,discord,html,github,python,javascript,java,css,vscode,git" alt="Skills" />
       </a>
     </div>
