@@ -7,19 +7,19 @@
 </head>
 <body>
   <div align="center">
-    <img src="logo new final-2.png" alt="Your Logo" width="100px" height="100px">
+    <img src="logo_new_final-2.png" alt="Your Logo" width="100px" height="100px">
     <h1>
       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There👋!+;+I'm+Enyous+Gurung!;">
     </h1>
 
-    <h3>Currently a passionate video editor/graphics designer studying BSc Hons Computing</h3>
+  <h3>Currently a passionate video editor/graphics designer studying BSc Hons Computing</h3>
 
-    <ul style="list-style-type:none;">
+  <ul style="list-style-type:none;">
       <li>🔭 I’m currently working as a video editor</li>
       <li>🌱 I’m currently studying BSc Hons Computing</li>
     </ul>
 
-    <div>
+   <div>
       <a href="mailto:enyousgrg@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
       </a>
@@ -31,9 +31,9 @@
       </a>
     </div>
 
-    <hr>
+  <hr>
 
-    <h3>
+  <h3>
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Shoot+me+a+message+on+LinkedIn;I'm+always+down+to+collab+🙂">
       </a>
