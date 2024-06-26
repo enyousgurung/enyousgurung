@@ -15,7 +15,7 @@
 
   <ul style="list-style-type:none;">
       <li>🔭 I’m currently working as a video editor</li>
-      <li>🌱 I’m currently studying BSc Hons Computing</li>
+      <li>📖 Currently studying BSc Hons Computing</li>
     </ul>
 
   <div>
