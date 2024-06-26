@@ -3,14 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    a img {
-      transition: transform 0.2s ease-in-out;
-    }
-    a img:hover {
-      transform: scale(1.1);
-    }
-  </style>
 </head>
 <body>
   <div align="center">
