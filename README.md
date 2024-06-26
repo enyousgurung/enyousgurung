@@ -36,7 +36,7 @@
     <br/>
     <div align="center">
       <a href="https://skillicons.dev">
-        <img src="logo new final-2.png" alt="Your Logo" width="100px" height="100px">
+        <img src="logo new final-2.png">
         <img src="https://skillicons.dev/icons?i=photoshop,blender,discord,html,github,python,javascript,java,css,vscode,git" alt="Skills" />
       </a>
     </div>
