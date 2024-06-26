@@ -37,7 +37,7 @@
     <div align="center">
       <a href="https://skillicons.dev">
       <a href="https://icons8.com">
-        <img src="https://icons8.com/icon/W6pIoS4POYMl/davinci-resolve" />
+        <img src="https://img.icons8.com/?size=100&id=W6pIoS4POYMl&format=png&color=000000" />
         <img src="https://skillicons.dev/icons?i=photoshop,blender,discord,html,github,python,javascript,java,css,vscode,git" alt="Skills" />
       </a>
     </div>
