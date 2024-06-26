@@ -8,7 +8,7 @@
   <div align="center">
     <img src="logo new final-2.png" alt="Your Logo" width="100px" height="100px">
     <h1>
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There👋!+;+I'm+Enyous+Gurung!;">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There👋!+;+<span >I'm+Enyous+Gurung!</span>;">
     </h1>
 
   <h3>Currently a passionate video editor/graphics designer studying BSc Hons Computing</h3>
