@@ -36,7 +36,7 @@
     <br/>
     <div align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=Ps,blender,discord,github,python,javascript,java,html,css,vscode,git" alt="Skills" />
+        <img src="https://skillicons.dev/icons?i=photoshop,blender,discord,github,python,javascript,java,html,css,vscode,git" alt="Skills" />
       </a>
     </div>
 
