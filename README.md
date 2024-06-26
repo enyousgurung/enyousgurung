@@ -20,13 +20,19 @@
 
   <div>
       <a href="mailto:enyousgrg@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" 
+             onmouseover="this.style.transform='scale(1.1)'; this.style.transition='transform 0.2s ease-in-out';" 
+             onmouseout="this.style.transform='scale(1)';"/>
       </a>
       <a href="https://www.linkedin.com/in/enyous-gurung-88a23527b/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
+             onmouseover="this.style.transform='scale(1.1)'; this.style.transition='transform 0.2s ease-in-out';" 
+             onmouseout="this.style.transform='scale(1)';"/>
       </a>
       <a href="https://enyous.netlify.app">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"
+             onmouseover="this.style.transform='scale(1.1)'; this.style.transition='transform 0.2s ease-in-out';" 
+             onmouseout="this.style.transform='scale(1)';"/>
       </a>
     </div>
 
