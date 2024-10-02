@@ -19,13 +19,13 @@
     </ul>
 
   <div>
-      <a href="mailto:enyousgrg@gmail.com">
+      <a href="mailto:enyousgrg@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
       </a>
-      <a href="https://www.linkedin.com/in/enyous-gurung-88a23527b/">
+      <a href="https://www.linkedin.com/in/enyous-gurung-88a23527b/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
-      <a href="https://enyous.netlify.app">
+      <a href="https://enyous.netlify.app" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
       </a>
     </div>
